@@ -1,0 +1,24 @@
+1. Home Page
+    a.Process of Data Summary, Exploratory Data Analysis, Modelling, Output Action
+2. Data Summary
+    a. Showcasing the Data
+    b. Number of Rows and Colums
+    c. 5 Number Summary (Overall)- Create a drop down to make it for selected columns
+    d. Number of Categroical and Numberical Variables
+    e. Columns Wise missing Values- Top 5 columns with Missing values
+3. Exploratory Data Analysis
+    a. Plotting the Barchart for selected Categorical Variable ( Give one as default) -Univariate Analysis
+    b. Plotting the Barchart for selected Numerical Variable ( Give one as default) -Univariate Analysis
+    c. Correlation Analysis -2 variables to be selected and plotted
+    d. Top variables with correlation
+    e. Box-Plot to find outliers
+4. Modelling
+    a. Select the Dependent Variable
+    b. Unselect the variables not to be included in the models
+    c. Select the model you want to run
+    d. Run the Model
+    e. Summary Statistics
+5. Output Action
+    a. Upload a file you want to score
+    b. Create the file with PD and score
+    c. Create an approval and reject flag in output 
