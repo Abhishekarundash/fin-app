@@ -1,0 +1,8 @@
+credit_risk_app/
+├── main.py               # Homepage with sidebar
+├── pages/
+│   ├── Home.py         # Process overview + key metrics
+│   ├── Data_Prep.py    # Upload data, clean, and preprocess
+│   ├── EDA.py          # Explore trends, correlations, and data quality
+│   ├── Model_Dashboard.py # Train/run model, interpret results
+│   └── Output_Actions.py  # Generate predictions, reports, and recommendations
