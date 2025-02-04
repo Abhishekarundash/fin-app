@@ -17,7 +17,8 @@
     b. Unselect the variables not to be included in the models
     c. Select the model you want to run
     d. Run the Model
-    e. Summary Statistics
+    e. Model Interpretability
+    f. Performance Metrics
 5. Output Action
     a. Upload a file you want to score
     b. Create the file with PD and score

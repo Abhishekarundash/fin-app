@@ -45,7 +45,7 @@ else:
 if st.session_state.page == "Home":
     from pages import Home as current_page
 elif st.session_state.page == "Data Preparation":
-    from pages import Data_Prep as current_page
+    from pages import Data_Summ as current_page
 elif st.session_state.page == "Exploratory Analysis":
     from pages import EDA as current_page
 elif st.session_state.page == "Modelling":
